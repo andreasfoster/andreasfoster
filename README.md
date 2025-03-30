@@ -1,6 +1,6 @@
-<h1>Hey, im Andreas Foster | <a href="https://www.linkedin.com/in/andreasfoster">IT Professional</a></h1> | Help Desk 
+<h1>Hey, im Andreas Foster | <a href="https://www.linkedin.com/in/andreasfoster">IT Professional</a></h1> 
 
-<h2>  Information Technology Projects:</h2>
+<h2> IT Projects I've done:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/andreasfoster/osticket-prereqs)
